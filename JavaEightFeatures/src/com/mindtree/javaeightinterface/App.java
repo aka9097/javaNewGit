@@ -7,10 +7,13 @@ public class App implements User {
 	
 	@Override
 	public void updateSalary(String str) {
-		System.out.println(str);
+	
 	}
 
 	public static void main(String[] args) {
+		int num=10;
+		int numTwo=20;
+		System.out.println(num+numTwo);
 		App app=new App();
 		//java existing method
 		app.updateSalary("My salary is 8546654");
