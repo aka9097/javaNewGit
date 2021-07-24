@@ -11,9 +11,9 @@ public class App implements User {
 	}
 
 	public static void main(String[] args) {
-		int num=10;
-		int numTwo=20;
-		System.out.println(num+numTwo);
+		int numFive=10;
+		int numSix=20;
+		System.out.println(numFive+numSix);
 		App app=new App();
 		//java existing method
 		app.updateSalary("My salary is 8546654");
