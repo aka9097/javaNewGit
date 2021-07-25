@@ -12,9 +12,9 @@ public class App implements User {
 
 	public static void main(String[] args) {
 
-		int numFive=10;
-		int numSix=20;
-		System.out.println(numFive+numSix);
+		int numsix=10;
+		int numseven=20;
+		System.out.println(numsix+numseven);
 
 		App app=new App();
 		//java existing method
