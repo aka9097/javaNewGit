@@ -13,9 +13,9 @@ public class App implements User {
 	public static void main(String[] args) {
 
 
-		int numsix=10;
-		int numseven=20;
-		System.out.println(numsix+numseven);
+		int numOne=10;
+		int numTwo=20;
+		System.out.println(numOne+numTwo);
 
 
 		App app=new App();
